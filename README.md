@@ -20,3 +20,4 @@ Hello! I'm Stefan, a Software Engineer from Austria 🇦🇹
 
 * [Photobook DSL](https://github.com/stefanschoeberl/photobook-dsl)
 * [Personal Website](https://github.com/stefanschoeberl/stefanschoeberl.github.io)
+* [Schnelltester](https://github.com/stefanschoeberl/schnelltester)
