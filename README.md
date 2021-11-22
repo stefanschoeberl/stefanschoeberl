@@ -16,8 +16,14 @@ Hello! I'm Stefan, a Software Engineer from Austria 🇦🇹
 * [Jekyll + GitHub Pages = Website](https://github.com/stefanschoeberl/jekyll-github-pages-talk)
 * [Docker Beginner's Guide](https://github.com/stefanschoeberl/docker-beginners-guide)
 
+## Contests
+
+* [Cloudflight Coding Contest / Classic CCC - 05.11.2021](https://github.com/stefanschoeberl/ccc-2021-classic)
+
 ## Other Projects
 
 * [Photobook DSL](https://github.com/stefanschoeberl/photobook-dsl)
 * [Personal Website](https://github.com/stefanschoeberl/stefanschoeberl.github.io)
+* [GranitTreff Website](https://github.com/GranitTreff/granittreff.github.io)
+* [OpenID Connect Authentication Demo](https://github.com/stefanschoeberl/authexperiments)
 * [Schnelltester](https://github.com/stefanschoeberl/schnelltester)
