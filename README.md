@@ -29,3 +29,4 @@ Hello! I'm Stefan, a Software Engineer from Austria 🇦🇹
 * [OpenID Connect Authentication Demo](https://github.com/stefanschoeberl/authexperiments)
 * [Schnelltester](https://github.com/stefanschoeberl/schnelltester)
 * [Advent of Code 2022](https://github.com/stefanschoeberl/advent-of-code-2022)
+* [Advent of Code 2023](https://github.com/stefanschoeberl/advent-of-code-2023)
