@@ -13,6 +13,7 @@ Hello! I'm Stefan, a Software Engineer from Austria 🇦🇹
 
 ## Talks and Workshops
 
+* [Algorithmic Photo Books: Kotlin DSLs demystified](https://github.com/stefanschoeberl/algorithmic-photobooks)
 * [WebAssembly: Disassembled](https://github.com/stefanschoeberl/webassembly-disassembled)
 * [Jekyll + GitHub Pages = Website](https://github.com/stefanschoeberl/jekyll-github-pages-talk)
 * [Docker Beginner's Guide](https://github.com/stefanschoeberl/docker-beginners-guide)
