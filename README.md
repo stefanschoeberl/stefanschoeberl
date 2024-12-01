@@ -31,3 +31,4 @@ Hello! I'm Stefan, a Software Engineer from Austria 🇦🇹
 * [Schnelltester](https://github.com/stefanschoeberl/schnelltester)
 * [Advent of Code 2022](https://github.com/stefanschoeberl/advent-of-code-2022)
 * [Advent of Code 2023](https://github.com/stefanschoeberl/advent-of-code-2023)
+* [Advent of Code 2024](https://github.com/stefanschoeberl/advent-of-code-2024)
